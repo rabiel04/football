@@ -1,5 +1,14 @@
 # Google Research Football
 
+###erste aenderung
+meine erste aenderung
+meine zweite aenderung
+::::
+II															
+###erste aenderung
+meine erste aenderung
+meine zweite aenderung    	
+
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
@@ -33,7 +42,6 @@ This is the recommended way to avoid incompatible package versions.
 Instructions are available [here](gfootball/doc/docker.md).
 
 ### On your computer
-
 #### 1. Install required packages
 #### Linux
 ```
