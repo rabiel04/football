@@ -1,4 +1,7 @@
 ARG DOCKER_BASE
+
+probleme gefixt ^:
+
 FROM $DOCKER_BASE
 
 ENV DEBIAN_FRONTEND=noninteractive
